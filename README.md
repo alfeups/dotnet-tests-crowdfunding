@@ -1,4 +1,4 @@
-# dotnet-vaquinha-tests
+# dotnet-crowdfunding-tests
 Este repositório faz parte de um projeto Base para Testes (unidade, integrado e usando método TDD) numa API de arquitetura MVC desenvolvida com .Net Core.
 
 ## Requisitos:
