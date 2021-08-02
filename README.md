@@ -2,7 +2,7 @@
 Este repositório faz parte de um projeto Base para Testes (unidade, integrado e usando método TDD) numa API de arquitetura MVC desenvolvida com .Net Core.
 
 ## Requisitos:
-<li>.NET
+<li>.NET /dotnet sdk3.1;
 <li>Microsoft Visual Studio ou VS code;
 <li>Selenium;
 
