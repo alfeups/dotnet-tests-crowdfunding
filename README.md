@@ -5,9 +5,7 @@ Este repositório faz parte de um projeto Base para Testes (unidade, integrado e
 <li>.NET
 <li>Microsoft Visual Studio ou VS code;
 <li>Selenium;
-<li>
-<li>
-<li>
+
 
 
 ## Conteúdo abordado:
@@ -17,12 +15,13 @@ Este repositório faz parte de um projeto Base para Testes (unidade, integrado e
 <li>Métodos HTTP;
 <li>Mock - simular o comportamento de uma classa,metodo,etc;
 <li>O conceito de fake para gerar dados;
-<li>
+<li>Annotations;
+<li>Instalar package - FluentAssertions;
+
+## Comandos utilizados:
+
+``` dotnet add package FluentAssertions ``` 
  
-
-
-
-
 
 
 
