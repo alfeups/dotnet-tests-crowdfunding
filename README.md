@@ -16,13 +16,12 @@ Este repositório faz parte de um projeto Base para Testes (unidade, integrado e
 <li>Mock - simular o comportamento de uma classa,metodo,etc;
 <li>O conceito de fake para gerar dados;
 <li>Annotations;
-<li>Instalar package - FluentAssertions;
+<li>Instalar package - FluentAssertions - Ajudar fluência das escrita dos Asserts;
 
 ## Comandos utilizados:
 
 ``` dotnet add package FluentAssertions ``` 
  
-
 
 
 
